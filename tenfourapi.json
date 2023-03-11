@@ -145,7 +145,7 @@
     },
     "xiaofeng477": {
         "url": "https://www.jili10.ph/?a=140205",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "countryCodes": ["PH","LA"],
         "adjustParams": [
